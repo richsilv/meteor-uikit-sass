@@ -1,0 +1,29 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "fourseven:scss",
+      "constraint": "0.9.6"
+    }
+  ],
+  "implies": [
+    {
+      "package": "fourseven:scss",
+      "constraint": "0.9.6"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "os/packages/richsilv:uikit-sass.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/richsilv:uikit-sass.js",
+      "sourceMap": "os/packages/richsilv:uikit-sass.js.map"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [
+    {
+      "name": "step"
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "fourseven:scss",
+      "constraint": "0.9.6"
+    },
+    {
+      "package": "ui"
+    },
+    {
+      "package": "jquery"
+    },
+    {
+      "package": "templating"
+    }
+  ],
+  "implies": [
+    {
+      "package": "fourseven:scss",
+      "constraint": "0.9.6"
+    }
+  ],
+  "resources": [
+    {
+      "type": "asset",
+      "file": "web.cordova/packages/richsilv:uikit-sass/assets/fonts/FontAwesome.otf",
+      "length": 85908,
+      "offset": 0,
+      "servePath": "/packages/richsilv:uikit-sass/assets/fonts/FontAwesome.otf",
+      "path": "assets/fonts/FontAwesome.otf"
+    },
+    {
+      "type": "asset",
+      "file": "web.cordova/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.eot",
+      "length": 56006,
+      "offset": 0,
+      "servePath": "/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.eot",
+      "path": "assets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "type": "asset",
+      "file": "web.cordova/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.ttf",
+      "length": 112160,
+      "offset": 0,
+      "servePath": "/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.ttf",
+      "path": "assets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "type": "asset",
+      "file": "web.cordova/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.woff",
+      "length": 65452,
+      "offset": 0,
+      "servePath": "/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.woff",
+      "path": "assets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "type": "prelink",
+      "file": "web.cordova/packages/richsilv:uikit-sass.js",
+      "length": 130792,
+      "offset": 0,
+      "servePath": "/packages/richsilv:uikit-sass.js",
+      "sourceMap": "web.cordova/packages/richsilv:uikit-sass.js.map"
+    }
+  ]
+}

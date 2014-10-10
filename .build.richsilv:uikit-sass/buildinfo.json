@@ -1,0 +1,77 @@
+{
+  "builtBy": "meteor/13",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "3313f34b25e8fb015cd606bc71ee1ad926486c8c"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "3313f34b25e8fb015cd606bc71ee1ad926486c8c",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/uikit.min.js": "feffced5e2ca17d85f12d217f04bd803c05e016f",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/autocomplete.min.js": "fefd05365c70de6315433a47976b83cd2f8c8add",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/cover.min.js": "ca88294300a023d07098b7bc8188420be9e0bf21",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/datepicker.min.js": "adb6e6aa8a5458fec682dc6947fe9655a61b3c68",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/form-password.min.js": "6d1b943a473e6009cfb458dbe259665d61a031a9",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/form-select.min.js": "e2e517563ba4bf659eacae14b6f1420be4fb2910",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/htmleditor.min.js": "875782e6c8275a96e2ce7bdf496d5d4d5d79c278",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/nestable.min.js": "fdc700b6f09c93dcf0b203431abafd518dcb42f7",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/notify.min.js": "4e2d0e7a9555c48502c6234873159f04e652caab",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/pagination.min.js": "38ba97bcee7bd2c733bc9fd3f7a7b34cd78fb0b5",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/search.min.js": "1e213489e4775d132b25640dd7ced56b75772a2f",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/sortable.min.js": "377b465338167271ac137285d3d55e4e6b8433bb",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/sticky.min.js": "0668d8433fd18d246462253f4a9b30aeade297d2",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/timepicker.min.js": "1327f020d1fcf4a157f3e0b020c457bef44a3527",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/upload.min.js": "6a36657df617499bfb284129a7651cdba7646227",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/fonts/FontAwesome.otf": "6270a4a561a69fef5f5cc18cdf9efc256ec2ccbe",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.eot": "0183979056f0b87616cd99d5c54a48f3b771eee6",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.ttf": "6225ccc4ec94d060f19efab97ca42d842845b949",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.woff": "7d65e0227d0d7cdc1718119cd2a7dce0638f151c"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "3313f34b25e8fb015cd606bc71ee1ad926486c8c",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/uikit.min.js": "feffced5e2ca17d85f12d217f04bd803c05e016f",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/autocomplete.min.js": "fefd05365c70de6315433a47976b83cd2f8c8add",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/cover.min.js": "ca88294300a023d07098b7bc8188420be9e0bf21",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/datepicker.min.js": "adb6e6aa8a5458fec682dc6947fe9655a61b3c68",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/form-password.min.js": "6d1b943a473e6009cfb458dbe259665d61a031a9",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/form-select.min.js": "e2e517563ba4bf659eacae14b6f1420be4fb2910",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/htmleditor.min.js": "875782e6c8275a96e2ce7bdf496d5d4d5d79c278",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/nestable.min.js": "fdc700b6f09c93dcf0b203431abafd518dcb42f7",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/notify.min.js": "4e2d0e7a9555c48502c6234873159f04e652caab",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/pagination.min.js": "38ba97bcee7bd2c733bc9fd3f7a7b34cd78fb0b5",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/search.min.js": "1e213489e4775d132b25640dd7ced56b75772a2f",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/sortable.min.js": "377b465338167271ac137285d3d55e4e6b8433bb",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/sticky.min.js": "0668d8433fd18d246462253f4a9b30aeade297d2",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/timepicker.min.js": "1327f020d1fcf4a157f3e0b020c457bef44a3527",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/upload.min.js": "6a36657df617499bfb284129a7651cdba7646227",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/fonts/FontAwesome.otf": "6270a4a561a69fef5f5cc18cdf9efc256ec2ccbe",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.eot": "0183979056f0b87616cd99d5c54a48f3b771eee6",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.ttf": "6225ccc4ec94d060f19efab97ca42d842845b949",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/fonts/fontawesome-webfont.woff": "7d65e0227d0d7cdc1718119cd2a7dce0638f151c"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "3313f34b25e8fb015cd606bc71ee1ad926486c8c"
+    },
+    "directories": []
+  },
+  "source": "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass",
+  "buildTimeDirectDependencies": {
+    "templating": "1.0.7",
+    "fourseven:scss": "0.9.6",
+    "jquery": "1.0.0",
+    "meteor": "1.1.1",
+    "ui": "1.0.3"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}
