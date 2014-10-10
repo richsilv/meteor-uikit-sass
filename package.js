@@ -36,7 +36,7 @@ Package.on_use(function(api) {
       'assets/js/components/sortable.min.js',
       'assets/js/components/sticky.min.js',
       'assets/js/components/timepicker.min.js',
-      'assets/js/components/upload.min.js',
+      'assets/js/components/upload.min.js',git@github.com:richsilv/meteor-uikit-sass.git
       'assets/fonts/FontAwesome.otf',
       'assets/fonts/fontawesome-webfont.eot',
       'assets/fonts/fontawesome-webfont.ttf',
