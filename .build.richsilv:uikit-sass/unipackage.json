@@ -1,10 +1,10 @@
 {
-  "format": "unipackage-pre2",
   "name": "richsilv:uikit-sass",
-  "summary": "A lightweight and modular front-end framework for developing fast and powerful web interfaces. SCSS version",
-  "version": "1.0.0+1c04f3a24cf9cad84637317e6dfe9152a0fbcef3",
+  "summary": "A lightweight and modular front-end framework for developing fast and powerful web interfaces. SCSS version.",
+  "version": "1.0.0+ae72f9aabaaae45038a439a949b4b92b9c6d9801",
   "earliestCompatibleVersion": "1.0.0",
   "isTest": false,
+  "plugins": [],
   "unibuilds": [
     {
       "arch": "os",
@@ -19,5 +19,5 @@
       "path": "web.cordova.json"
     }
   ],
-  "plugins": []
+  "format": "unipackage-pre2"
 }

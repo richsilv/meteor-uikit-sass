@@ -17,8 +17,8 @@ Package.on_use(function(api) {
      * Add files that should be used with this
      * package.
      */
-    api.use('fourseven:scss@0.9.6', ['client', 'server']);
-    api.imply('fourseven:scss@0.9.6', ['client', 'server']);
+    api.use('fourseven:scss@1.0.0', ['client', 'server']);
+    api.imply('fourseven:scss@1.0.0', ['client', 'server']);
     api.use(['ui', 'jquery', 'templating'], 'client');
 
     var assets = [

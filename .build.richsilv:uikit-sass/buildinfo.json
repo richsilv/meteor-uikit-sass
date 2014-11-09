@@ -1,15 +1,15 @@
 {
-  "builtBy": "meteor/13",
+  "builtBy": "meteor/14",
   "buildDependencies": {
     "os.json": {
       "files": {
-        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "3313f34b25e8fb015cd606bc71ee1ad926486c8c"
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "66a663498a16746058bdf48850e14638d7b5480c"
       },
       "directories": []
     },
     "web.browser.json": {
       "files": {
-        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "3313f34b25e8fb015cd606bc71ee1ad926486c8c",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "66a663498a16746058bdf48850e14638d7b5480c",
         "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/uikit.min.js": "feffced5e2ca17d85f12d217f04bd803c05e016f",
         "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/autocomplete.min.js": "fefd05365c70de6315433a47976b83cd2f8c8add",
         "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/cover.min.js": "ca88294300a023d07098b7bc8188420be9e0bf21",
@@ -34,7 +34,7 @@
     },
     "web.cordova.json": {
       "files": {
-        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "3313f34b25e8fb015cd606bc71ee1ad926486c8c",
+        "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "66a663498a16746058bdf48850e14638d7b5480c",
         "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/uikit.min.js": "feffced5e2ca17d85f12d217f04bd803c05e016f",
         "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/autocomplete.min.js": "fefd05365c70de6315433a47976b83cd2f8c8add",
         "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/assets/js/components/cover.min.js": "ca88294300a023d07098b7bc8188420be9e0bf21",
@@ -60,17 +60,17 @@
   },
   "pluginDependencies": {
     "files": {
-      "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "3313f34b25e8fb015cd606bc71ee1ad926486c8c"
+      "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass/package.js": "66a663498a16746058bdf48850e14638d7b5480c"
     },
     "directories": []
   },
   "source": "/home/richard/Meteor/recog-client/packages/richsilv:uikit-sass",
   "buildTimeDirectDependencies": {
-    "templating": "1.0.7",
+    "templating": "1.0.9",
     "fourseven:scss": "0.9.6",
-    "jquery": "1.0.0",
-    "meteor": "1.1.1",
-    "ui": "1.0.3"
+    "jquery": "1.0.1",
+    "meteor": "1.1.3",
+    "ui": "1.0.4"
   },
   "buildTimePluginDependencies": {},
   "cordovaDependencies": null
