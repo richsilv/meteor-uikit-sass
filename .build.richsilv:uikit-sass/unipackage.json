@@ -1,7 +1,7 @@
 {
   "name": "richsilv:uikit-sass",
   "summary": "A lightweight and modular front-end framework for developing fast and powerful web interfaces. SCSS version.",
-  "version": "1.0.0+ae72f9aabaaae45038a439a949b4b92b9c6d9801",
+  "version": "1.0.1+35cda0731f4b8bf395f2086e431a8bdeb4296881",
   "earliestCompatibleVersion": "1.0.0",
   "isTest": false,
   "plugins": [],

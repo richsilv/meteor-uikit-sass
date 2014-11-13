@@ -11,7 +11,7 @@
     },
     {
       "package": "fourseven:scss",
-      "constraint": "0.9.6"
+      "constraint": "1.0.0"
     },
     {
       "package": "ui"
@@ -26,7 +26,7 @@
   "implies": [
     {
       "package": "fourseven:scss",
-      "constraint": "0.9.6"
+      "constraint": "1.0.0"
     }
   ],
   "resources": [
