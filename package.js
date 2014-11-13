@@ -1,6 +1,6 @@
 Package.describe({
     name: 'richsilv:uikit-sass',
-    summary: 'A lightweight and modular front-end framework for developing fast and powerful web interfaces. SCSS version.',
+    summary: 'A lightweight and modular front-end framework - SCSS version.',
     git: 'https://github.com/richsilv/meteor-uikit-sass',
     version: '1.0.1'
 });
@@ -9,7 +9,7 @@ Package.on_use(function(api) {
 
     api.use('fourseven:scss@1.0.0', ['client', 'server']);
     api.imply('fourseven:scss@1.0.0', ['client', 'server']);
-    api.use(['ui', 'jquery', 'templating'], 'client');
+    api.use(['ui@1.0.4', 'jquery@1.0.1', 'templating@1.0.9'], 'client');
 
     var otherAssets = [
           'assets/js/uikit.min.js',

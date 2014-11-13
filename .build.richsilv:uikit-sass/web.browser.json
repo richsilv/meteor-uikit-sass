@@ -14,13 +14,16 @@
       "constraint": "1.0.0"
     },
     {
-      "package": "ui"
+      "package": "ui",
+      "constraint": "1.0.4"
     },
     {
-      "package": "jquery"
+      "package": "jquery",
+      "constraint": "1.0.1"
     },
     {
-      "package": "templating"
+      "package": "templating",
+      "constraint": "1.0.9"
     }
   ],
   "implies": [
